@@ -1,0 +1,13 @@
+{
+  "name": "next-typescript-monorepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcello Antunes",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/components",
+    "packages/blog",
+    "packages/site"
+  ]
+}
